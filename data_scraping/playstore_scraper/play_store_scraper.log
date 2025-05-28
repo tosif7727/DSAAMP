@@ -1,0 +1,12 @@
+2025-05-24 12:17:04,847 - INFO - Starting Google Play Store scraper
+2025-05-24 12:17:05,902 - INFO - Successfully parsed robots.txt
+2025-05-24 12:18:01,124 - INFO - Starting Google Play Store scraper
+2025-05-24 12:18:02,163 - INFO - Successfully parsed robots.txt
+2025-05-24 12:18:21,275 - INFO - Starting Google Play Store scraper
+2025-05-24 12:18:22,237 - INFO - Successfully parsed robots.txt
+2025-05-24 12:20:34,874 - INFO - Starting Google Play Store scraper
+2025-05-24 12:20:35,841 - INFO - Successfully parsed robots.txt
+2025-05-24 12:20:46,223 - INFO - Searching for apps with query: cricket
+2025-05-24 12:20:46,239 - WARNING - robots.txt disallows: https://play.google.com/store/search?q=cricket&c=apps
+2025-05-24 12:20:46,239 - ERROR - Failed to retrieve search page: Blocked by robots.txt
+2025-05-24 12:20:46,239 - INFO - Found 0 app URLs

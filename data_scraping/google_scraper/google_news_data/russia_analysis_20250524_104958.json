@@ -1,0 +1,87 @@
+{
+  "total_articles": 90,
+  "publishers": {
+    "BBC": 4,
+    "ABC News": 2,
+    "The Washington Post": 3,
+    "The Guardian": 2,
+    "Fox News": 1,
+    "The New York Times": 6,
+    "Reuters": 7,
+    "Institute for the Study of War": 4,
+    "CNN": 4,
+    "PBS": 2,
+    "The Telegraph": 1,
+    "Al Jazeera": 10,
+    "NPR": 3,
+    "Vatican News": 1,
+    "NBC News": 4,
+    "AP News": 3,
+    "CBS News": 1,
+    "The Kyiv Independent": 7,
+    "Bloomberg.com": 1,
+    "politico.eu": 1,
+    "Atlantic Council": 2,
+    "Euronews.com": 2,
+    "Axios": 1,
+    "War on the Rocks": 1,
+    "France 24": 2,
+    "Responsible Statecraft": 1,
+    "National Security Agency (.gov)": 1,
+    "DW": 1,
+    "Newsweek": 2,
+    "Українська правда": 1,
+    "CNBC": 1,
+    "The Conversation": 1,
+    "The Moscow Times": 1,
+    "Politico": 1,
+    "The Independent": 1,
+    "The War Zone": 1,
+    "The Atlantic": 1,
+    "Business Insider": 1,
+    "Sky News": 1
+  },
+  "publication_timeline": {
+    "2025-05-20": 8,
+    "2025-05-21": 9,
+    "2025-05-22": 13,
+    "2025-05-23": 28,
+    "2025-05-24": 24
+  },
+  "common_keywords": {
+    "error": "\n**********************************************************************\n  Resource \u001b[93mpunkt_tab\u001b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \u001b[31m>>> import nltk\n  >>> nltk.download('punkt_tab')\n  \u001b[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted to load \u001b[93mtokenizers/punkt_tab/english/\u001b[0m\n\n  Searched in:\n    - 'C:\\\\Users\\\\touse/nltk_data'\n    - 'C:\\\\Users\\\\touse\\\\miniconda3\\\\envs\\\\data_scraping\\\\nltk_data'\n    - 'C:\\\\Users\\\\touse\\\\miniconda3\\\\envs\\\\data_scraping\\\\share\\\\nltk_data'\n    - 'C:\\\\Users\\\\touse\\\\miniconda3\\\\envs\\\\data_scraping\\\\lib\\\\nltk_data'\n    - 'C:\\\\Users\\\\touse\\\\AppData\\\\Roaming\\\\nltk_data'\n    - 'C:\\\\nltk_data'\n    - 'D:\\\\nltk_data'\n    - 'E:\\\\nltk_data'\n**********************************************************************\n"
+  },
+  "topics": [],
+  "oldest_article": {
+    "title": "Unpacking Russia’s cyber nesting doll",
+    "publisher": "Atlantic Council",
+    "date": "2025-05-20T10:49:56.082604"
+  },
+  "newest_article": {
+    "title": "Kyiv mayor says Russian drones, missiles trigger fires, injure eight",
+    "publisher": "Reuters",
+    "date": "2025-05-24T09:49:56.098705"
+  },
+  "most_active_publishers": [
+    [
+      "Al Jazeera",
+      10
+    ],
+    [
+      "Reuters",
+      7
+    ],
+    [
+      "The Kyiv Independent",
+      7
+    ],
+    [
+      "The New York Times",
+      6
+    ],
+    [
+      "BBC",
+      4
+    ]
+  ]
+}

@@ -1,0 +1,132 @@
+2025-05-22 00:13:53,223 - INFO - Starting Google News scraper for AI news
+2025-05-22 00:14:12,486 - INFO - Searching for: pls news
+2025-05-22 00:14:36,466 - INFO - Selenium: Found 90 articles on search page
+2025-05-22 00:14:36,482 - INFO - Saved data to google_news_data\pls_news_20250522_001436.json
+2025-05-22 00:14:36,488 - INFO - Saved 90 articles to google_news_data\pls_news_20250522_001436.csv
+2025-05-22 00:14:46,839 - ERROR - Error in keyword analysis: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\touse/nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\share\\nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\lib\\nltk_data'
+    - 'C:\\Users\\touse\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-22 00:14:46,845 - INFO - Saved data to google_news_data\pls_news_analysis_20250522_001436.json
+2025-05-22 00:14:49,857 - INFO - Generated word cloud: pls_news_wordcloud_20250522_001436.png
+2025-05-22 00:14:50,158 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-22 00:14:50,170 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-22 00:14:50,648 - INFO - Generated timeline chart: pls_news_timeline_20250522_001436.png
+2025-05-22 00:20:37,523 - INFO - Starting Google News scraper for AI news
+2025-05-22 00:20:58,163 - INFO - Searching for: football news
+2025-05-22 00:21:17,334 - INFO - Selenium: Found 90 articles on search page
+2025-05-22 00:21:17,349 - INFO - Saved data to google_news_data\football_news_20250522_002117.json
+2025-05-22 00:21:17,365 - INFO - Saved 90 articles to google_news_data\football_news_20250522_002117.csv
+2025-05-22 00:21:18,983 - ERROR - Error in keyword analysis: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\touse/nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\share\\nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\lib\\nltk_data'
+    - 'C:\\Users\\touse\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-22 00:21:18,997 - INFO - Saved data to google_news_data\football_news_analysis_20250522_002117.json
+2025-05-22 00:21:22,828 - INFO - Generated word cloud: football_news_wordcloud_20250522_002117.png
+2025-05-22 00:21:23,373 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-22 00:21:23,378 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-22 00:21:24,777 - INFO - Generated timeline chart: football_news_timeline_20250522_002117.png
+2025-05-22 00:24:15,967 - INFO - Starting Google News scraper for AI news
+2025-05-22 00:24:40,823 - INFO - Searching for: pakistan sports
+2025-05-22 00:24:59,251 - INFO - Selenium: Found 90 articles on search page
+2025-05-22 00:24:59,255 - INFO - Saved data to google_news_data\pakistan_sports_20250522_002459.json
+2025-05-22 00:24:59,274 - INFO - Saved 90 articles to google_news_data\pakistan_sports_20250522_002459.csv
+2025-05-22 00:25:00,732 - ERROR - Error in keyword analysis: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\touse/nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\share\\nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\lib\\nltk_data'
+    - 'C:\\Users\\touse\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-22 00:25:00,737 - INFO - Saved data to google_news_data\pakistan_sports_analysis_20250522_002459.json
+2025-05-22 00:25:06,128 - INFO - Generated word cloud: pakistan_sports_wordcloud_20250522_002459.png
+2025-05-22 00:25:06,854 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-22 00:25:06,857 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-22 00:25:07,912 - INFO - Generated timeline chart: pakistan_sports_timeline_20250522_002459.png
+2025-05-24 10:49:13,740 - INFO - Starting Google News scraper for AI news
+2025-05-24 10:49:40,782 - INFO - Searching for: Russia
+2025-05-24 10:49:58,358 - INFO - Selenium: Found 90 articles on search page
+2025-05-24 10:49:58,358 - INFO - Saved data to google_news_data\russia_20250524_104958.json
+2025-05-24 10:49:58,358 - INFO - Saved 90 articles to google_news_data\russia_20250524_104958.csv
+2025-05-24 10:49:59,596 - ERROR - Error in keyword analysis: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\touse/nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\share\\nltk_data'
+    - 'C:\\Users\\touse\\miniconda3\\envs\\data_scraping\\lib\\nltk_data'
+    - 'C:\\Users\\touse\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-05-24 10:49:59,598 - INFO - Saved data to google_news_data\russia_analysis_20250524_104958.json
+2025-05-24 10:50:01,652 - INFO - Generated word cloud: russia_wordcloud_20250524_104958.png
+2025-05-24 10:50:01,840 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-24 10:50:01,842 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-05-24 10:50:02,202 - INFO - Generated timeline chart: russia_timeline_20250524_104958.png

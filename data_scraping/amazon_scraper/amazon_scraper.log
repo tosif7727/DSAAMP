@@ -1,0 +1,45 @@
+2025-05-21 21:59:58,267 - INFO - Starting Amazon scraper
+2025-05-21 21:59:58,267 - INFO - Fetching free proxies...
+2025-05-21 22:00:02,638 - INFO - Found 600 potential proxies
+2025-05-21 22:03:45,192 - INFO - Validated 34 working proxies
+2025-05-21 22:03:47,771 - INFO - Successfully parsed robots.txt
+2025-05-21 22:06:54,595 - INFO - Searching for products: laptop
+2025-05-21 22:06:58,538 - INFO - Request to https://www.amazon.com/s?k=laptop (Attempt 1/3, Proxy: http://47.90.205.231:33333)
+2025-05-21 22:07:00,057 - WARNING - Request failed: HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /s?k=laptop (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 502 Bad Gateway')))
+2025-05-21 22:07:11,730 - INFO - Request to https://www.amazon.com/s?k=laptop (Attempt 2/3, Proxy: http://159.69.57.20:8880)
+2025-05-21 22:07:17,216 - INFO - Found 14 products on page 1
+2025-05-21 22:07:22,596 - INFO - Request to https://www.amazon.com/s?k=laptop&page=2 (Attempt 1/3, Proxy: http://14.229.120.170:8080)
+2025-05-21 22:07:24,634 - WARNING - HTTP Error: 202
+2025-05-21 22:07:32,167 - INFO - Request to https://www.amazon.com/s?k=laptop&page=2 (Attempt 2/3, Proxy: http://47.90.205.231:33333)
+2025-05-21 22:07:44,912 - WARNING - Request failed: HTTPSConnectionPool(host='www.amazon.com', port=443): Max retries exceeded with url: /s?k=laptop&page=2 (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 502 Bad Gateway')))
+2025-05-21 22:07:52,225 - INFO - Request to https://www.amazon.com/s?k=laptop&page=2 (Attempt 3/3, Proxy: http://45.140.143.77:18080)
+2025-05-21 22:07:56,872 - INFO - Found 16 products on page 2
+2025-05-21 22:08:03,660 - INFO - Request to https://www.amazon.com/s?k=laptop&page=3 (Attempt 1/3, Proxy: http://45.170.226.250:999)
+2025-05-21 22:08:06,211 - WARNING - HTTP Error: 202
+2025-05-21 22:08:16,420 - INFO - Request to https://www.amazon.com/s?k=laptop&page=3 (Attempt 2/3, Proxy: http://45.140.143.77:18080)
+2025-05-21 22:08:20,043 - INFO - Found 16 products on page 3
+2025-05-21 22:08:24,056 - INFO - Request to https://www.amazon.com/s?k=laptop&page=4 (Attempt 1/3, Proxy: http://14.229.120.170:8080)
+2025-05-21 22:08:24,483 - WARNING - HTTP Error: 202
+2025-05-21 22:08:38,390 - INFO - Request to https://www.amazon.com/s?k=laptop&page=4 (Attempt 2/3, Proxy: http://51.81.244.204:17981)
+2025-05-21 22:08:43,309 - INFO - Found 14 products on page 4
+2025-05-21 22:08:43,309 - INFO - Found 0 product URLs
+2025-05-21 22:13:09,506 - INFO - Starting Amazon scraper
+2025-05-21 22:13:09,508 - INFO - Fetching free proxies...
+2025-05-21 22:13:12,617 - INFO - Found 600 potential proxies
+2025-05-21 22:16:50,503 - INFO - Validated 30 working proxies
+2025-05-21 22:16:52,150 - INFO - Successfully parsed robots.txt
+2025-05-21 22:17:21,193 - INFO - Searching for products: laptop
+2025-05-21 22:17:26,662 - INFO - Request to https://www.amazon.com/s?k=laptop (Attempt 1/3, Proxy: http://93.190.138.107:56786)
+2025-05-21 22:17:31,149 - WARNING - Request blocked, CAPTCHA encountered, or HTTP 202/403/503 received
+2025-05-21 22:17:31,153 - WARNING - Removed bad proxy: http://93.190.138.107:56786
+2025-05-21 22:17:31,185 - INFO - Request to https://www.amazon.com/s?k=laptop (Attempt 2/3, Proxy: http://51.81.244.204:17981)
+2025-05-21 22:17:33,610 - WARNING - Request blocked, CAPTCHA encountered, or HTTP 202/403/503 received
+2025-05-21 22:17:33,610 - WARNING - Removed bad proxy: http://51.81.244.204:17981
+2025-05-21 22:17:33,644 - INFO - Request to https://www.amazon.com/s?k=laptop (Attempt 3/3, Proxy: http://159.69.57.20:8880)
+2025-05-21 22:17:42,449 - INFO - Found 16 products on page 1
+2025-05-21 22:17:45,890 - INFO - Request to https://www.amazon.com/s?k=laptop&page=2 (Attempt 1/3, Proxy: http://187.249.114.252:8080)
+2025-05-21 22:17:48,310 - WARNING - Request blocked, CAPTCHA encountered, or HTTP 202/403/503 received
+2025-05-21 22:17:48,310 - WARNING - Removed bad proxy: http://187.249.114.252:8080
+2025-05-21 22:17:48,324 - INFO - Request to https://www.amazon.com/s?k=laptop&page=2 (Attempt 2/3, Proxy: http://124.198.14.249:15648)
+2025-05-21 22:17:55,195 - INFO - Found 19 products on page 2
+2025-05-21 22:17:55,195 - INFO - Found 0 product URLs
