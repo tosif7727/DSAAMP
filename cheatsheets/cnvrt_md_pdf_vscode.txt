@@ -1,0 +1,14 @@
+Install Latex according to your Operating system from here
+Update the Tex version your have downloaded
+Install Jupyter extensions from VScode
+Install pandoc from here
+activate your specific environment
+conda activate python_basics
+Install jupyter
+pip install jupyter
+Run this command
+jupyter nbconvert –to pdf filename.ipynb
+Click yes if vscode ask for installations of any extra things needed
+It may take some extra time but at the end it will work.
+
+
